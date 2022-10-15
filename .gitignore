@@ -1,0 +1,6 @@
+*.exe
+*.swo
+*.swp
+*.spv
+/tags
+/bin
